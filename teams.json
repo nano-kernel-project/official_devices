@@ -27,7 +27,14 @@
       {
         "codename": "phoenix",
         "version": [
-          "ten"
+          "ten",
+          "eleven"
+        ]
+      },
+      {
+        "codename": "avicii",
+        "version": [
+          "eleven"
         ]
       }
     ]
@@ -85,7 +92,8 @@
       {
         "codename": "z2_plus",
         "version": [
-          "ten"
+          "ten",
+          "eleven"
         ]
       },
       {
@@ -154,28 +162,6 @@
     ]
   },
   {
-    "full_name": "Nikhil Gohil",
-    "telegram_username": "nikhilgohil3",
-    "github_username": "gohilnikhil",
-    "xda_url": "https://forum.xda-developers.com/member.php?u=8499818",
-    "country": "IN",
-    "core_team": "false",
-    "devices": [
-      {
-        "codename": "z2_plus",
-        "version": [
-          "ten"
-        ]
-      },
-      {
-        "codename": "z2_row",
-        "version": [
-          "ten"
-        ]
-      }
-    ]
-  },
-  {
     "full_name": "Nishant Singh",
     "telegram_username": "tesla59",
     "github_username": "tesla59",
@@ -192,7 +178,8 @@
       {
         "codename": "violet",
         "version": [
-          "ten"
+          "ten",
+          "eleven"
         ]
       }
     ]
@@ -218,7 +205,8 @@
       {
         "codename": "violet",
         "version": [
-          "ten"
+          "ten",
+          "eleven"
         ]
       }
     ]
@@ -328,6 +316,19 @@
         "codename": "riva",
         "version": [
           "ten"
+        ]
+      },
+      {
+        "codename": "avicii",
+        "version": [
+          "ten",
+          "eleven"
+        ]
+      },
+      {
+        "codename": "X00TD",
+        "version": [
+          "eleven"
         ]
       }
     ]
