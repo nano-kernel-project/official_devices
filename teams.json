@@ -9,7 +9,7 @@
     "devices": [
       {
         "codename": "onclite",
-        "version": [
+        "bases": [
           "ten"
         ]
       }
@@ -26,14 +26,14 @@
     "devices": [
       {
         "codename": "phoenix",
-        "version": [
+        "bases": [
           "ten",
           "eleven"
         ]
       },
       {
         "codename": "avicii",
-        "version": [
+        "bases": [
           "eleven"
         ]
       }
@@ -58,7 +58,7 @@
     "devices": [
       {
         "codename": "lavender",
-        "version": [
+        "bases": [
           "ten"
         ]
       }
@@ -74,7 +74,7 @@
     "devices": [
       {
         "codename": "miatoll",
-        "version": [
+        "bases": [
           "ten"
         ]
       }
@@ -91,14 +91,14 @@
     "devices": [
       {
         "codename": "z2_plus",
-        "version": [
+        "bases": [
           "ten",
           "eleven"
         ]
       },
       {
         "codename": "z2_row",
-        "version": [
+        "bases": [
           "ten"
         ]
       }
@@ -114,7 +114,7 @@
     "devices": [
       {
         "codename": "rosy",
-        "version": [
+        "bases": [
           "ten"
         ]
       }
@@ -139,7 +139,7 @@
     "devices": [
       {
         "codename": "X00TD",
-        "version": [
+        "bases": [
           "ten"
         ]
       }
@@ -155,7 +155,7 @@
     "devices": [
       {
         "codename": "sanders",
-        "version": [
+        "bases": [
           "ten"
         ]
       }
@@ -171,13 +171,13 @@
     "devices": [
       {
         "codename": "beryllium",
-        "version": [
+        "bases": [
           "ten"
         ]
       },
       {
         "codename": "violet",
-        "version": [
+        "bases": [
           "ten",
           "eleven"
         ]
@@ -204,7 +204,7 @@
     "devices": [
       {
         "codename": "violet",
-        "version": [
+        "bases": [
           "ten",
           "eleven"
         ]
@@ -240,7 +240,7 @@
     "devices": [
       {
         "codename": "X00TD",
-        "version": [
+        "bases": [
           "ten"
         ]
       }
@@ -256,7 +256,7 @@
     "devices": [
       {
         "codename": "whyred",
-        "version": [
+        "bases": [
           "ten"
         ]
       }
@@ -272,7 +272,7 @@
     "devices": [
       {
         "codename": "mido",
-        "version": [
+        "bases": [
           "ten"
         ]
       }
@@ -297,7 +297,7 @@
     "devices": [
       {
         "codename": "x2",
-        "version": [
+        "bases": [
           "ten"
         ]
       }
@@ -314,20 +314,20 @@
     "devices": [
       {
         "codename": "riva",
-        "version": [
+        "bases": [
           "ten"
         ]
       },
       {
         "codename": "avicii",
-        "version": [
+        "bases": [
           "ten",
           "eleven"
         ]
       },
       {
         "codename": "X00TD",
-        "version": [
+        "bases": [
           "eleven"
         ]
       }
@@ -352,13 +352,13 @@
     "devices": [
       {
         "codename": "sakura",
-        "version": [
+        "bases": [
           "ten"
         ]
       },
       {
         "codename": "ysl",
-        "version": [
+        "bases": [
           "ten"
         ]
       }
@@ -383,7 +383,7 @@
     "devices": [
       {
         "codename": "ginkgo",
-        "version": [
+        "bases": [
           "ten"
         ]
       }
@@ -400,7 +400,7 @@
     "devices": [
       {
         "codename": "begonia",
-        "version": [
+        "bases": [
           "ten"
         ]
       }
