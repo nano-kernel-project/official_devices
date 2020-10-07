@@ -14,9 +14,10 @@ jobs:
       - name: run sync
         run: |
           sudo apt-get update
-          sudo apt-get install python3.6
+          sudo apt-get install python3.6 wget
+          wget https://bootstrap.pypa.io/ez_setup.py -O - | python3
           sudo apt-get install python3-pip
-          pip3 install pygithub setuptools
+          pip3 install pygithub
           python3 .github/scripts/sync.py
         env:
           GITHUB_SHA: GITHUB_SHA
