@@ -16,7 +16,7 @@ jobs:
           sudo apt-get update
           sudo apt-get install python3.6
           sudo apt-get install python3-pip
-          pip3 install pygithub setup-tools
+          pip3 install pygithub setuptools
           python3 .github/scripts/sync.py
         env:
           GITHUB_SHA: GITHUB_SHA
