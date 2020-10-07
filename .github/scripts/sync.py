@@ -3,8 +3,8 @@ import json
 import github
 
 newjson = {}
-username = os.environ['github_username']
-password = os.environ['github_password']
+username = os.environ['GITHUB_USERNAME']
+password = os.environ['GITHUB_PASSWORD']
 auth = Github(username, password)
 repo = auth.get_repo('PixysOS/official_devices')
 
