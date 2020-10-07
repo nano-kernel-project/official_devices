@@ -1,0 +1,24 @@
+name: Sync
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: run sync
+        run: |
+          sudo apt-get update
+          sudo apt-get install python3.6
+          sudo apt-get install python3-pip
+          pip3 install pygithub
+          python3 .github/scripts/sync.py
+        env:
+          GITHUB_SHA: GITHUB_SHA
+          GITHUB_USERNAME: ${{ secrets.github_username }}
+          GITHUB_PASSWORD: ${{ secrets.github_password }}
